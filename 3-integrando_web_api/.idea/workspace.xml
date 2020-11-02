@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51e8b9f1-98c6-4e92-bae4-f24cea1f076b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/.idea/4-HTTP_flutter_com_web_api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.log" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.script" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank-api-runnable/database/main/db.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank/lib/http/webclient.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank/lib/http/webclient.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank/lib/http/webclients/transaction_webclient.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank/lib/http/webclients/transaction_webclient.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank/lib/screens/transaction_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../4-HTTP_flutter_com_web_api/bytebank/lib/screens/transaction_form.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jh2KvG7gGYMXewNXBH6XO1fePS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51e8b9f1-98c6-4e92-bae4-f24cea1f076b" name="Default Changelist" comment="" />
+      <created>1604241942740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604241942740</updated>
+    </task>
+    <servers />
+  </component>
+</project>
